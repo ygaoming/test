@@ -1,0 +1,17 @@
+@media(min-width: 1000px) and (max-width: 1200px){
+.brief-img{
+   width: 40%;
+}
+.brief-left{
+	padding-right: 20px;
+}
+.content-img{
+    position: absolute;
+margin-left: -2em;
+margin-top: -13em;
+    z-index: 0;
+}
+
+
+
+}
